@@ -1,3 +1,11 @@
+# Own
+cash*
+verse*
+python*
+*_test*
+notes.md
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
