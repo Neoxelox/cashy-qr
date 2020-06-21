@@ -1,10 +1,10 @@
 # cashy-qr
 Cash-like inspired QR codes
 
-###From
+### From
 ![From QR](from.png)
 
-###To
+### To
 ![To QR](to.png)
 
 *__Notice!__* this repository is still in development and there are several important code/looks enhancements.
